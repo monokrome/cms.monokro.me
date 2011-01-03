@@ -2,6 +2,9 @@ werkzeug
 textile
 markdown
 docutils
+# This requires that we also run the following command:
+# easy_install -i http://downloads.egenix.com/python/index/ucs4/ egenix-mx-base
+psycopg2
 git+http://github.com/django/django.git
 git+http://github.com/django-extensions/django-extensions.git
 git+http://github.com/monokrome/django-navigation.git
